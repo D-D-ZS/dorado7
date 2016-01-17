@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ViewConfig>
+  <Arguments/>
+  <Context/>
+  <Model/>
+  <View layout="padding:20">
+    <Property name="title">HelloWorld</Property>
+    <Button id="btnHelloWorld">
+      <Property name="caption">Greeting from Dorado7....</Property>
+    </Button>
+  </View>
+</ViewConfig>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ViewConfig>
+  <Arguments/>
+  <Context/>
+  <Model/>
+  <View>
+    <AjaxAction id="ajaxAction1">
+      <Property name="parameter">Hello World!</Property>
+      <Property name="service">simpleAjax#toUpperCase</Property>
+    </AjaxAction>
+    <Button>
+      <Property name="action">ajaxAction1</Property>
+      <Property name="caption">toUpperCase</Property>
+    </Button>
+  </View>
+</ViewConfig>

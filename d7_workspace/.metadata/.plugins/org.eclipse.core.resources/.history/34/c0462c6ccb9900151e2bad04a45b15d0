@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ViewConfig>
+  <Arguments/>
+  <Context/>
+  <Model/>
+  <View>
+    <Menu id="menu1">
+      <MenuItem>
+        <MenuItem/>
+        <MenuItem/>
+        <MenuItem/>
+      </MenuItem>
+      <MenuItem id="menuItem2"/>
+      <MenuItem id="menuItem3"/>
+      <MenuItem id="menuItem4"/>
+    </Menu>
+  </View>
+</ViewConfig>

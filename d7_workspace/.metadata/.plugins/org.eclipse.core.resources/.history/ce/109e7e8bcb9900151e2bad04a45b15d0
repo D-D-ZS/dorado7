@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ViewConfig>
+  <Arguments/>
+  <Context/>
+  <Model/>
+  <View>
+    <Menu id="menu1">
+      <MenuItem id="menuItem1">
+        <Property name="caption">书签</Property>
+        <MenuItem>
+          <Property name="caption">书签</Property>
+        </MenuItem>
+        <MenuItem/>
+        <MenuItem/>
+      </MenuItem>
+      <MenuItem id="menuItem2">
+        <Property name="caption">新建窗口</Property>
+      </MenuItem>
+      <MenuItem id="menuItem3"/>
+      <MenuItem id="menuItem4"/>
+    </Menu>
+  </View>
+</ViewConfig>

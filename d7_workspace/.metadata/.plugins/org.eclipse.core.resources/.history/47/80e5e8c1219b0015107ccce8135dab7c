@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ViewConfig>
+  <Arguments/>
+  <Context/>
+  <Model/>
+  <View>
+    <Property name="title">Dorado7.0 快速入门</Property>
+    <ToolBar>
+      <ToolBarLabel>
+        <Property name="style">
+          <Property name="label">Dorado7 快速入门	</Property>
+          <Property name="padding-left">8</Property>
+        </Property>
+        <Property name="text">Dorado7 快速入门</Property>
+      </ToolBarLabel>
+      <Fill/>
+      <ToolBarButton>
+        <Property name="menu">menu1</Property>
+        <Property name="icon"> url(>skin>common/icons.gif) -100px -20px</Property>
+      </ToolBarButton>
+    </ToolBar>
+    <SplitPanel>
+      <MainControl>
+        <TabControl/>
+      </MainControl>
+      <SideControl>
+        <Tree>
+          <Node>
+            <Property name="label">chapter01</Property>
+            <Node>
+              <Property name="label">HelloWorld</Property>
+            </Node>
+          </Node>
+          <Node>
+            <Property name="label">chapter02</Property>
+          </Node>
+          <Node>
+            <Property name="label">chapter03</Property>
+          </Node>
+          <Node>
+            <Property name="label">chapter04</Property>
+          </Node>
+        </Tree>
+      </SideControl>
+    </SplitPanel>
+    <Menu id="menu1">
+      <MenuItem>
+        <Property name="caption">Help</Property>
+      </MenuItem>
+      <MenuItem>
+        <Property name="caption">About</Property>
+      </MenuItem>
+    </Menu>
+  </View>
+</ViewConfig>

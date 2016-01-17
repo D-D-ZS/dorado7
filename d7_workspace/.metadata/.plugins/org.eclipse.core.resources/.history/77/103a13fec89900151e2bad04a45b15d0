@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ViewConfig>
+  <Arguments/>
+  <Context/>
+  <Model/>
+  <View>
+    <SplitPanel>
+      <Property name="position">200</Property>
+      <MainControl/>
+      <SideControl/>
+    </SplitPanel>
+  </View>
+</ViewConfig>

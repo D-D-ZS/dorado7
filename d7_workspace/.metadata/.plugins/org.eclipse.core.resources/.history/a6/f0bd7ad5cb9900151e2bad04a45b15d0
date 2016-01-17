@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ViewConfig>
+  <Arguments/>
+  <Context/>
+  <Model/>
+  <View>
+    <Menu id="menu1">
+      <MenuItem id="menuItem1">
+        <Property name="caption">书签</Property>
+        <MenuItem id="menuItem1">
+          <Property name="caption">新浪</Property>
+        </MenuItem>
+        <MenuItem id="menuItem1">
+          <Property name="caption">GOOGLE</Property>
+        </MenuItem>
+        <MenuItem id="menuItem1">
+          <Property name="caption">BSDN</Property>
+        </MenuItem>
+      </MenuItem>
+      <MenuItem id="menuItem2">
+        <Property name="caption">新建窗口</Property>
+      </MenuItem>
+      <MenuItem id="menuItem3">
+        <Property name="caption">新建标签</Property>
+      </MenuItem>
+      <MenuItem id="menuItem4">
+        <Property name="caption">工具</Property>
+      </MenuItem>
+    </Menu>
+  </View>
+</ViewConfig>

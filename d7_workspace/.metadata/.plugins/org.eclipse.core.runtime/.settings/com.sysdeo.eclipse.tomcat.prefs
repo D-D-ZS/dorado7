@@ -1,0 +1,8 @@
+computeSourcePath=true
+configMode=serverFile
+contextsDir=F\:\\tools\\eclipse-jee-kepler-SR2-win32\\apache-tomcat-7.0.20\\conf\\Catalina\\localhost
+eclipse.preferences.version=1
+fixTomcatHomeBug=fixed
+tomcatConfigFile=F\:\\tools\\eclipse-jee-kepler-SR2-win32\\apache-tomcat-7.0.20\\conf\\server.xml
+tomcatDir=F\:\\tools\\eclipse-jee-kepler-SR2-win32\\apache-tomcat-7.0.20
+tomcatVersion=tomcatV7

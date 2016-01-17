@@ -1,0 +1,4 @@
+core.runMode=
+
+model.root=classpath*:models
+view.root=classpath:

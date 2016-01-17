@@ -1,0 +1,25 @@
+/**
+ * @author shuanly
+ */
+// @Bind #tree1.onContextMenu
+//!function(arg){
+//    view.get("#menu1").show({
+//        position:{
+//            left:arg.event.pageX,
+//            top:arg.event.pageY
+//        }
+//    });
+//}
+
+// @Bind #tree1.onContextMenu
+// @Bind #panel1.onContextMenu
+!function(arg) {
+    view.get("#menu1").show({
+        position : {
+            right : arg.event.pageX,
+            top : arg.event.pageY
+        }
+    });
+}
+
+

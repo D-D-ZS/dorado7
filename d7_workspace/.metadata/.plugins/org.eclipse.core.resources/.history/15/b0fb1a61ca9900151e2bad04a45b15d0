@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ViewConfig>
+  <Arguments/>
+  <Context/>
+  <Model/>
+  <View>
+    <TabControl>
+      <ControlTab>
+        <Property name="caption">tab1</Property>
+        <Property name="closeable">true</Property>
+        <Label>
+          <Property name="text">q</Property>
+        </Label>
+      </ControlTab>
+      <ControlTab>
+        <Property name="caption">tab2</Property>
+        <Property name="disabled">true</Property>
+        <Label>
+          <Property name="text">a</Property>
+        </Label>
+      </ControlTab>
+      <ControlTab>
+        <Property name="caption">tab3</Property>
+        <Label>
+          <Property name="text">z</Property>
+        </Label>
+      </ControlTab>
+      <IFrameTab>
+        <Property name="caption">tab4</Property>
+        <Property name="path">http://bsdn.org</Property>
+      </IFrameTab>
+    </TabControl>
+  </View>
+</ViewConfig>

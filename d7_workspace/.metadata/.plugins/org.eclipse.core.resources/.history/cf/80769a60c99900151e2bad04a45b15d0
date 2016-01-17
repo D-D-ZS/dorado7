@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ViewConfig>
+  <Arguments/>
+  <Context/>
+  <Model/>
+  <View>
+    <TabControl>
+      <ControlTab>
+        <Property name="caption">tab1</Property>
+      </ControlTab>
+      <ControlTab/>
+      <ControlTab/>
+    </TabControl>
+  </View>
+</ViewConfig>

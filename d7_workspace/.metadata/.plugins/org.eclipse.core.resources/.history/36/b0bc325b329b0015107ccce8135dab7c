@@ -1,0 +1,9 @@
+/**
+ * @author shuanly
+ */
+
+// @Bind #menu1.#menuItem2.onClick
+!function(){
+    dorado.MessageBox.alert("Dorado7.0 快速入门");
+}
+
